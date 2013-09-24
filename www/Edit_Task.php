@@ -56,7 +56,7 @@ and open the template in the editor.
                 else 
                     {
                     
-                    header( 'Location: http://localhost/Project_Timeglider/Send_JSON.php' );
+                    header( 'Location: C:\\Users\\maryum.babar\\ptimeglider\\www\\Send_JSON.php' );
                        
                     }
         ?>

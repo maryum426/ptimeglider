@@ -51,7 +51,7 @@
                //echo $json_data;
                //echo $json_data;
               
-                   header( "Location: http://localhost/Project_Timeglider/Get_Results.php?id=".$p_id );
+                   header( "Location: C:\\Users\\maryum.babar\\ptimeglider\\www\\Get_Results.php?id=".$p_id );
               
                
         ?>

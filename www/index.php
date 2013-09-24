@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="refresh" content="0; url=http://example.com/">
         <title></title>
     </head>
     <body>
         <?php
-         header( "Location: http://localhost/Project_Timeglider/Send_JSON.php");
+         header( "Location: C:\\Users\\maryum.babar\\ptimeglider\\www\\Send_JSON.php");
            ?>
     </body>
 </html>

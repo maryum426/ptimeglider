@@ -53,7 +53,7 @@
                             mysqli_query($con,$insert_mem);
 
                         }
-                    header( 'Location: http://localhost/Project_Timeglider/Send_JSON.php?pro_id='.$proj_id );
+                    header( 'Location: C:\\Users\\maryum.babar\\ptimeglider\\www\\Send_JSON.php?pro_id='.$proj_id );
                        
                     }
         ?>

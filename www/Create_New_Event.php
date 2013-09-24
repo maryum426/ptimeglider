@@ -150,7 +150,7 @@
                }
                
             $('#choose_icon').click(function(){
-                $('#shapes-dialog').load('http://localhost/Project_Timeglider/Shapes_Form.php');
+                $('#shapes-dialog').load('C:\\Users\\maryum.babar\\ptimeglider\\www\\Shapes_Form.php');
             });
             
         </script>
