@@ -152,7 +152,7 @@ tg.TG_TimelinePlayer = function (widget, mediator) {
        event_modal_view: "<div class='tg-modal timeglider-ev-modal ui-widget-content ${extra_class}' id='${id}_modal'>" 
       	   + "<div class='tg-close-button tg-close-button-remove'></div>" 
       	   + "<div class='dateline'>{{html dateline}}</div>"
-           + "<form id ='form2' method='POST' action='file:///C:/Users/maryum.babar/ptimeglider/www/Edit_Task.php'>"
+           + "<form id ='form2' method='POST' action=' Edit_Task.php'>"
       	   + "<label id='title'>${title}</label>"
       	   + "<div class='tg-ev-modal-description jscroll'><p>{{html image}}{{html description}}</p></div>"
            + "<div class='tg-ev-modal-description'>"
@@ -4033,7 +4033,7 @@ tg.TG_TimelinePlayer.prototype = {
 
                                             });
                                        
-                                        //$('#history').load('file:///C:/Users/maryum.babar/ptimeglider/www/View_Task_History.php');
+                                        //$('#history').load(' View_Task_History.php');
                                         $('.tab1').click(function(){
                                            
                                            $('.tab1').css({'background-color': '#a3daf5','border-style': 'solid','border-color': '#14B9D6','border-width':'thin','color': '#14B9D6'});

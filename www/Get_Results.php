@@ -74,7 +74,7 @@
                           
          $('#add_proj').click(function(){
                              //alert("Hello");
-                             $('#dialog-form').load('file:///C:/Users/maryum.babar/ptimeglider/www/Add_New_Project.php');
+                             $('#dialog-form').load(' Add_New_Project.php');
                     });
             //Drop  down members
                 $("#mult").multiselect();
@@ -196,10 +196,10 @@
            
                         
            
-            <h1 style="font: normal normal 40px 'Dancing Script','Segoe UI',sans-serif;margin-left:500px;"> Project Timeline</h1>
+            <h1 style="font: normal normal 40px 'Dancing Script','Segoe UI',sans-serif;margin-left:40%;"> Project Timeline</h1>
             
             <div class="header-form">
-                <form id="project" method="POST" action="file:///C:/Users/maryum.babar/ptimeglider/www/Send_JSON.php">
+                <form id="project" method="POST" action=" Send_JSON.php">
                         <label>Select A Project:</label>
                         <div class="container">
                             <div id="dd" class="wrapper-dropdown-5" tabindex="1"><span>Select A Project</span>

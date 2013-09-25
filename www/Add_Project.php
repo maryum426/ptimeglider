@@ -38,7 +38,7 @@
                 else 
                     {
                     
-                    header( 'Location: file:///C:/Users/maryum.babar/ptimeglider/www/Send_JSON.php' );
+                    header( 'Location:  Send_JSON.php' );
                        
                     }
         ?>

@@ -51,7 +51,7 @@
                //echo $json_data;
                //echo $json_data;
               
-                   header( "Location: file:///C:/Users/maryum.babar/ptimeglider/www/Get_Results.php?id=".$p_id );
+                   header( "Location:  Get_Results.php?id=".$p_id );
               
                
         ?>

@@ -153,7 +153,7 @@
                }
                
             /*$('#choose_icon').click(function(){
-                $('#shapes-dialog').load('file:///C:/Users/maryum.babar/ptimeglider/www/Shapes_Form.php');
+                $('#shapes-dialog').load(' Shapes_Form.php');
             });*/
             
             
